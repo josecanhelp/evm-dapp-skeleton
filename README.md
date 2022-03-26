@@ -10,7 +10,7 @@ CSS Framework - [Tailwind](https://tailwindcss.com/)
 Clone the Repository
 
 ```bash
-git clone git@`
+git clone git@github.com:josecanhelp/evm-dapp-skeleton.git
 ```
 
 Install Dependencies
